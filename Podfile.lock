@@ -1,0 +1,16 @@
+PODS:
+  - YoutubeKit (0.6.0)
+
+DEPENDENCIES:
+  - YoutubeKit
+
+SPEC REPOS:
+  trunk:
+    - YoutubeKit
+
+SPEC CHECKSUMS:
+  YoutubeKit: 71f86b366d7898bf8f439cbd5e6605e63e73189a
+
+PODFILE CHECKSUM: 22e376a37f99efd5243c8e03cc3125215ab53d68
+
+COCOAPODS: 1.10.2
